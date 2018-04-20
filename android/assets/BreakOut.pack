@@ -1,0 +1,124 @@
+
+BreakOut.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+spiral
+  rotate: false
+  xy: 1, 413
+  size: 850, 566
+  orig: 850, 566
+  offset: 0, 0
+  index: -1
+cup
+  rotate: false
+  xy: 1, 283
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 853, 899
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+bonus
+  rotate: false
+  xy: 1, 206
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+doubleArrow
+  rotate: false
+  xy: 131, 336
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+horizontalArrow
+  rotate: false
+  xy: 853, 822
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 935, 904
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+play_saved
+  rotate: false
+  xy: 1, 129
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+split
+  rotate: false
+  xy: 208, 336
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+verticalArrow
+  rotate: false
+  xy: 853, 745
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+bomb
+  rotate: false
+  xy: 1, 67
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+home
+  rotate: false
+  xy: 285, 347
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+play_saved - Copy
+  rotate: false
+  xy: 853, 679
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+sound_off
+  rotate: false
+  xy: 1, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+sound_on
+  rotate: false
+  xy: 351, 347
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+stats
+  rotate: false
+  xy: 853, 613
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tennis
+  rotate: false
+  xy: 78, 246
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
