@@ -67,6 +67,8 @@ public class GameStage extends Stage implements Constants, GestureListener, Seri
 	// physics objects
 	World world;
 
+	
+	
 	InputMultiplexer multiplexer;
 
 	public GameStage(Viewport viewPort) {
