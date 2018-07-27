@@ -81,6 +81,8 @@ public class GameStage extends Stage implements Constants, GestureListener, Seri
 		super(new StretchViewport(GAME_WIDTH, GAME_HEIGHT));
 	}
 
+	
+	
 	@Override
 	public void read(Json json, JsonValue jsonData) {
 		initialise();
@@ -95,7 +97,6 @@ public class GameStage extends Stage implements Constants, GestureListener, Seri
 	}
 
 	private void initialise() {
-		// this.setDebugAll(true);
 		skinLibgdx = Assets.INSTANCE.getSkinLibgdx();
 		world = new World(new Vector2(0, 0f), true);
 		world.setContactListener(new WorldCotactListener());
